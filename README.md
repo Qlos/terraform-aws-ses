@@ -1,7 +1,7 @@
 
 # terraform-aws-ses
 
-### This project is build and develop by DevOps from [Qlos.com](https://qlos.com)
+This project is **100% Open Source**, build and develop by DevOps Team from [Qlos.com](https://qlos.com)
 ## About
 Terraform module to provision [Simple Email Service](https://aws.amazon.com/ses/) on AWS.
 ## License
